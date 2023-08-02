@@ -1,0 +1,3 @@
+if you run uname command  it will print the kernel name. The output will typically be a single word that represents the name of the operating system kernel that is currently running on your system.
+
+For example, if you run uname on a Linux system, it will typically output "Linux." On macOS, it will output "Darwin," which is the kernel name for macOS.
